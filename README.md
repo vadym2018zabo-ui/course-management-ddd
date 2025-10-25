@@ -37,7 +37,7 @@
 - `domain/` — класи моделей
 - `docs/domain/` — документація, глосарій, діаграма контекстів
 
-Контекстна діаграма
+## Контекстна діаграма
 Bounded Contexts:
 - User Management ↔ Course Management
 - Course Management ↔ Enrollment System 
